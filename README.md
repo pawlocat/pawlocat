@@ -6,7 +6,6 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Darumadrop+One&size=30&pause=1000&color=9BE8D8&width=435&lines=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!">
 </p>
-<br></br>
 <h3 align="center">
   What Am I learning:
 </h3>
